@@ -11,3 +11,4 @@ A Streamlit dashboard for visualizing sentiments of various USA airlines tweets
 
 # Project History
 My first Streamlit data visualisation as well as first Streamlit app. Dataset is available on kaggle. Made this dashboard in August 2020 while learning about Data and ML deployment and since then have been using Streamlit regularly.
+Learnt about streamlit from Snehan Kekre for anyone interested.
